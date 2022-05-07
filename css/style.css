@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.navbar{
+background-color: #6E6E6E;
+}
+p{
+text-align:justify;
+font-size: 1.6rem;   
+}
+.historia{
+    background-color: #D8D8D8;
+    color: #424242;
+}
+.nav-item{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2rem;
+    margin: 10px;
+}
+.margin{
+      padding-bottom: 50px;
+      padding-top: 10px;
+}
+.mundo_game{
+    background-color: #FF8000;
+    color: #424242;
+}
+.bg-footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
